@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+.clear {
+    clear: both;
+}
+.sec-1{
+    margin-bottom: 50px;
+}
+.sec-1 .item{
+
+}
+.sec-1 .item img{
+    width: 40%;
+    margin-bottom: 15px;
+}
+.sec-1 .item h2{
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+.sec-1 .item h1{
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
+.sec-1 .item p{
+    font-size: 25px;
+    color: rgb(80, 79, 79);
+    margin-bottom: 55px;
+}
+.sec-1 .item p>a{
+    color: rgb(227, 105, 95);
+}
+.sec-1 .item .btn-1{
+    background: rgb(227, 105, 95);
+    text-decoration: none;
+    color: #fff;
+    padding: 15px 40px;
+    font-weight: 700;
+    font-size: 25px;
+}
+.item-text{
+    margin-top: 15px;
+}
+.item-text span{
+    color: rgb(136, 132, 132);
+    margin-bottom: 30px;
+    display: block;
+    font-weight: 300;
+    margin-top: 25px;
+    font-size: 14px;
+}
+.item-text span>a{
+    color: rgb(227, 105, 95);
+    font-weight: 700;
+}
+.span-1{
+    color: #000 !important;
+    font-size: 25px !important;
+    font-weight: 500 !important;
+}
+.sec-1{
+margin-top: 40px;
+background: rgb(255, 255, 255);
+
+}
+.item hr{
+    color: rgb(136, 132, 132);
+    height: 5px;
+
+}
+.item-icon{
+    text-align: start;
+}
+.item-icon i{
+    font-size: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.tiem-icon-text a{
+    text-align: end ;
+    color: rgb(227, 105, 95);
+
+}
+.footer-p{
+    margin-top: 40px;
+    font-size: 22px;
+    color: rgb(80, 79, 79);
+
+}
+
+.footer-p a{
+    color: rgb(227, 105, 95);
+
+}
+.footer-span{
+    color: rgb(80, 79, 79);
+
+}
+.footer-span a{
+    color: rgb(227, 105, 95);
+}
